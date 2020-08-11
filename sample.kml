@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>765</name>
+    <Style id="idBlackPolygon">
+      <LineStyle>
+        <color>f5000000</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>55000000</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>centerPoint_1</name>
+      <description>Call-765 AoI ID: 1, Priority: 1, SurfaceArea: 312, Comment: Call-765 AoI ID: 1, Priority: 1, Radius (km): 10.0, Lat: 33.9018, Long: 35.5189, SurfaceArea: 314, Comment: Radius (km): 10;</description>
+      <styleUrl>#idBlackPolygon</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>35.6272,33.9018,0 35.6252,33.9193,0 35.619,33.9362,0 35.609,33.9517,0 35.5956,33.9654,0 35.5791,33.9766,0 35.5604,33.9849,0 35.5401,33.99,0 35.5189,33.9917,0 35.4977,33.99,0 35.4774,33.9849,0 35.4587,33.9766,0 35.4422,33.9654,0 35.4288,33.9517,0 35.4188,33.9362,0 35.4126,33.9193,0 35.4106,33.9018,0 35.4127,33.8842,0 35.4188,33.8673,0 35.4289,33.8518,0 35.4423,33.8382,0 35.4588,33.827,0 35.4775,33.8187,0 35.4978,33.8136,0 35.5189,33.8119,0 35.54,33.8136,0 35.5603,33.8187,0 35.579,33.827,0 35.5955,33.8382,0 35.6089,33.8518,0 35.619,33.8673,0 35.6251,33.8842,0 35.6272,33.9018,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
+
